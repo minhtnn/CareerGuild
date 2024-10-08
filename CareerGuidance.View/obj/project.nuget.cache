@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wvr7h6Mf0AUfMYnqK+6MoDOLnfIT4SXZpD/9qvvT5S5Hj95lBd21+J8n5tI/f7ghIWEZC0wtS+WSkvkYyleiuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\N.Minh- ADMIN\\RiderProjects\\CareerGuidance\\CareerGuidance.View\\CareerGuidance.View.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\N.Minh- ADMIN\\.nuget\\packages\\htmlagilitypack\\1.11.67\\htmlagilitypack.1.11.67.nupkg.sha512",
+    "C:\\Users\\N.Minh- ADMIN\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\N.Minh- ADMIN\\.nuget\\packages\\newtonsoft.json.schema\\4.0.1\\newtonsoft.json.schema.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\N.Minh- ADMIN\RiderProjects\CareerGuidance\CareerGuidance.Repository\bin\Debug\net8.0\CareerGuidance.Repository.deps.json
+C:\Users\N.Minh- ADMIN\RiderProjects\CareerGuidance\CareerGuidance.Repository\bin\Debug\net8.0\CareerGuidance.Repository.dll
+C:\Users\N.Minh- ADMIN\RiderProjects\CareerGuidance\CareerGuidance.Repository\bin\Debug\net8.0\CareerGuidance.Repository.pdb
+C:\Users\N.Minh- ADMIN\RiderProjects\CareerGuidance\CareerGuidance.Repository\bin\Debug\net8.0\CareerGuidance.Domain.dll
+C:\Users\N.Minh- ADMIN\RiderProjects\CareerGuidance\CareerGuidance.Repository\bin\Debug\net8.0\CareerGuidance.Domain.pdb
+C:\Users\N.Minh- ADMIN\RiderProjects\CareerGuidance\CareerGuidance.Repository\obj\Debug\net8.0\CareerGuidance.Repository.csproj.AssemblyReference.cache
+C:\Users\N.Minh- ADMIN\RiderProjects\CareerGuidance\CareerGuidance.Repository\obj\Debug\net8.0\CareerGuidance.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N.Minh- ADMIN\RiderProjects\CareerGuidance\CareerGuidance.Repository\obj\Debug\net8.0\CareerGuidance.Repository.AssemblyInfoInputs.cache
+C:\Users\N.Minh- ADMIN\RiderProjects\CareerGuidance\CareerGuidance.Repository\obj\Debug\net8.0\CareerGuidance.Repository.AssemblyInfo.cs
+C:\Users\N.Minh- ADMIN\RiderProjects\CareerGuidance\CareerGuidance.Repository\obj\Debug\net8.0\CareerGuidance.Repository.csproj.CoreCompileInputs.cache
+C:\Users\N.Minh- ADMIN\RiderProjects\CareerGuidance\CareerGuidance.Repository\obj\Debug\net8.0\CareerGu.169388C3.Up2Date
+C:\Users\N.Minh- ADMIN\RiderProjects\CareerGuidance\CareerGuidance.Repository\obj\Debug\net8.0\CareerGuidance.Repository.dll
+C:\Users\N.Minh- ADMIN\RiderProjects\CareerGuidance\CareerGuidance.Repository\obj\Debug\net8.0\refint\CareerGuidance.Repository.dll
+C:\Users\N.Minh- ADMIN\RiderProjects\CareerGuidance\CareerGuidance.Repository\obj\Debug\net8.0\CareerGuidance.Repository.pdb
+C:\Users\N.Minh- ADMIN\RiderProjects\CareerGuidance\CareerGuidance.Repository\obj\Debug\net8.0\ref\CareerGuidance.Repository.dll

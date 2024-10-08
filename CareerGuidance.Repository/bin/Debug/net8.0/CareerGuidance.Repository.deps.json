@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CareerGuidance.Repository/1.0.0": {
+        "dependencies": {
+          "CareerGuidance.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CareerGuidance.Repository.dll": {}
+        }
+      },
+      "CareerGuidance.Domain/1.0.0": {
+        "runtime": {
+          "CareerGuidance.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CareerGuidance.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CareerGuidance.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
